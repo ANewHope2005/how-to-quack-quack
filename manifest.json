@@ -1,0 +1,19 @@
+{
+ "id": "module-0",
+ "title": "Molecular Docking Fundamentals",
+ "titleFa": "مبانی داکینگ مولکولی",
+ "lessons": [
+  "lesson-01-introduction-to-molecular-docking.md",
+  "lesson-02-applications-in-drug-discovery.md",
+  "lesson-03-protein-ligand-receptor-and-binding-site.md",
+  "lesson-04-protein-structure-and-binding-pockets.md",
+  "lesson-05-non-covalent-molecular-interactions.md",
+  "lesson-06-binding-pose-and-binding-affinity.md",
+  "lesson-07-sampling-procedures.md",
+  "lesson-08-scoring-functions.md",
+  "lesson-09-main-docking-types-and-approaches.md",
+  "lesson-10-molecular-docking-workflow.md",
+  "lesson-11-differences-between-docking-md-and-virtual-screeni.md",
+  "lesson-12-limitations-and-common-misinterpretations.md"
+ ]
+}
